@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImHarshPrajapati
+- 👋 Hi, I’m Harsh
 - 👀 I’m interested in Swift | SwiftUI| Flutter | Mobile & web security
 - 🌱 I’m currently learning Cycber Security | white hat hacking
 - 💞️ I’m looking to collaborate on swift | dart 
